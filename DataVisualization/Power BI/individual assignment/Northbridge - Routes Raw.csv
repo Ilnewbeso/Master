@@ -1,0 +1,65 @@
+﻿Route ID;Departure Station;Arrival Station;Scheduled Journey Duration (Minutes)
+R001;Birmingham New Street;Coventry;20
+R002;Birmingham New Street;Edinburgh Waverley;270
+R003;Birmingham New Street;Liverpool Lime Street;90
+R004;Birmingham New Street;London Euston;80
+R005;Birmingham New Street;London Kings Cross;90
+R006;Birmingham New Street;London Paddington;90
+R007;Birmingham New Street;London St Pancras;80
+R008;Birmingham New Street;Manchester Piccadilly;80
+R009;Birmingham New Street;Nuneaton;20
+R010;Birmingham New Street;Reading;90
+R011;Birmingham New Street;Stafford;30
+R012;Birmingham New Street;Tamworth;20
+R013;Birmingham New Street;Wolverhampton;15
+R014;Birmingham New Street;York;105
+R015;Bristol Temple Meads;Cardiff Central;25
+R016;Edinburgh Waverley;London Kings Cross;260
+R017;Liverpool Lime Street;Birmingham New Street;90
+R018;Liverpool Lime Street;Crewe;35
+R019;Liverpool Lime Street;Leeds;90
+R020;Liverpool Lime Street;London Euston;135
+R021;Liverpool Lime Street;London Paddington;150
+R022;Liverpool Lime Street;London St Pancras;150
+R023;Liverpool Lime Street;Manchester Piccadilly;30
+R024;Liverpool Lime Street;Sheffield;75
+R025;London Euston;Birmingham New Street;80
+R026;London Euston;Manchester Piccadilly;110
+R027;London Euston;Oxford;70
+R028;London Euston;York;110
+R029;London Kings Cross;Edinburgh Waverley;260
+R030;London Kings Cross;Liverpool Lime Street;135
+R031;London Kings Cross;York;110
+R032;London Paddington;Liverpool Lime Street;150
+R033;London Paddington;London Waterloo;90
+R034;London Paddington;Manchester Piccadilly;135
+R035;London Paddington;Oxford;90
+R036;London Paddington;Reading;60
+R037;London St Pancras;Birmingham New Street;80
+R038;London St Pancras;Leicester;60
+R039;London St Pancras;Wolverhampton;90
+R040;Manchester Piccadilly;Leeds;45
+R041;Manchester Piccadilly;Liverpool Lime Street;30
+R042;Manchester Piccadilly;London Euston;110
+R043;Manchester Piccadilly;London Kings Cross;135
+R044;Manchester Piccadilly;London Paddington;135
+R045;Manchester Piccadilly;London St Pancras;135
+R046;Manchester Piccadilly;Nottingham;60
+R047;Manchester Piccadilly;Sheffield;45
+R048;Manchester Piccadilly;Warrington;20
+R049;Manchester Piccadilly;York;90
+R050;Oxford;Bristol Temple Meads;75
+R051;Reading;Birmingham New Street;60
+R052;Reading;Didcot;15
+R053;Reading;Liverpool Lime Street;150
+R054;Reading;London Paddington;25
+R055;Reading;Oxford;25
+R056;Reading;Swindon;45
+R057;York;Birmingham New Street;135
+R058;York;Doncaster;30
+R059;York;Durham;50
+R060;York;Edinburgh Waverley;150
+R061;York;Leeds;25
+R062;York;Liverpool Lime Street;90
+R063;York;Peterborough;70
+R064;York;Wakefield;25

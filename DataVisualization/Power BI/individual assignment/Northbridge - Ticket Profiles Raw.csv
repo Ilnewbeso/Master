@@ -1,0 +1,25 @@
+﻿Ticket Profile ID;Railcard;Ticket Class;Ticket Type
+TP01;Adult;First Class;Advance
+TP02;Adult;First Class;Anytime
+TP03;Adult;First Class;Off-Peak
+TP04;Adult;Standard;Advance
+TP05;Adult;Standard;Anytime
+TP06;Adult;Standard;Off-Peak
+TP07;Disabled;First Class;Advance
+TP08;Disabled;First Class;Anytime
+TP09;Disabled;First Class;Off-Peak
+TP10;Disabled;Standard;Advance
+TP11;Disabled;Standard;Anytime
+TP12;Disabled;Standard;Off-Peak
+TP13;;First Class;Advance
+TP14;;First Class;Anytime
+TP15;;First Class;Off-Peak
+TP16;;Standard;Advance
+TP17;;Standard;Anytime
+TP18;;Standard;Off-Peak
+TP19;Senior;First Class;Advance
+TP20;Senior;First Class;Anytime
+TP21;Senior;First Class;Off-Peak
+TP22;Senior;Standard;Advance
+TP23;Senior;Standard;Anytime
+TP24;Senior;Standard;Off-Peak
